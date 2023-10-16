@@ -1,0 +1,33 @@
+.main-div{
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+mat-form-field {
+  width: 100%;
+}
+
+.button-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-img {
+  display: flex;
+}
+
+.column-img {
+  flex: 50%;
+}
+.img-1{
+  width: 170px;
+  height: 170px;
+}
+
+.img-2{
+  width: 170px;
+  height: 170px;
+  margin-left: 120px;
+}
